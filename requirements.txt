@@ -1,0 +1,5 @@
+numpy
+librosa
+os
+tensorflow
+sklearn
